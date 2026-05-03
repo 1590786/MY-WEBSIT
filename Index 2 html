@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Bakery</title>
+</head>
+<body>
+
+<h1>New Master Bakery</h1>
+<p>Fresh bakery and grocery items available</p>
+
+<img src="https://via.placeholder.com/200">
+
+<h2>Products:</h2>
+<ul>
+  <li>Bread</li>
+  <li>Cake</li>
+  <li>Biscuits</li>
+</ul>
+
+</body>
+</html>
